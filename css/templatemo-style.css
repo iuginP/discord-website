@@ -160,9 +160,9 @@ video {
 .fp-scrollable {
   height:calc(100vh - 200px) !important;
 }
-#fp-nav ul li a span {
+/* #fp-nav ul li a span {
  display: none;
-}
+} */
 
 .btn {
   background: #fff;
