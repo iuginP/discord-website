@@ -854,3 +854,14 @@ textarea.form-control {
   background-color: #fff;
   border-radius: 3px;
 }
+
+@media only screen and (max-width: 800px) {
+  .section {
+    padding-top: 5em;
+  }
+}
+
+img {
+  max-height: 70vh;
+  width: auto;
+}
